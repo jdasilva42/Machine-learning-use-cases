@@ -23,3 +23,7 @@ For performs the regression task, the input parameters are made dimensionless wi
 
 
 <img src="./figure/input_parameters.PNG" style="display: block;height:15%">
+
+### Prediction models
+
+For the task, SVr and GBr models have been trained and tested. For a better score, the combination of these models has been set up with a voting regressor.
